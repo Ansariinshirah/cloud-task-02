@@ -7,3 +7,4 @@ InfoSetu is a multilingual (English, Hindi, Marathi) public-service platform whe
 - slo-workbook.xlsx: SLIs, SLOs, error budgets, paging thresholds
 - cost-model.xlsx: monthly cost for Lean, Balanced and Resilient scenarios
 - architecture-decision-records.pdf: region, recovery, secrets, least privilege
+- slo-cost-envelope-updated.csv: the task CSV with the added SLO columns
